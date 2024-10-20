@@ -18,3 +18,5 @@ This application is programmed using HTML, CSS, and JS. This application is a mu
 ## Passwords:
 - Username (Mathew)  Password (Samir123@)
 - Username (Career180)  Password (Career@180)
+
+- [License](#license)
