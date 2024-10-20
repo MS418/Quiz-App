@@ -24,7 +24,7 @@ This application is programmed using HTML, CSS, and JS. This application is a mu
 
 
 *Quiz App Login*
-(https://github.com/MS418/Quiz-App/blob/main/Quiz%20App%20Imags/3.JPG)
+![Project Structure](https://github.com/MS418/Quiz-App/blob/main/Quiz%20App%20Imags/3.JPG)
 
 
 
