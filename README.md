@@ -1,6 +1,7 @@
 # Quiz App
 
 This is a web-based Quiz App that allows users to take quizzes on various subjects like Chemistry, Physics, and Mathematics. The app features login authentication, dynamic routing between pages, and multiple levels of quizzes.
+This application is programmed using HTML, CSS, and JS. This application is a multi-page application and features a simple user interface for ease of use and responsiveness to all screens.
 
 ## Features:
 - User authentication via JSON data (username/password).
