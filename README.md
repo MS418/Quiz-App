@@ -23,7 +23,7 @@ This application is programmed using HTML, CSS, and JS. This application is a mu
 ## Images
 
 
-*Quiz App Login*
+###Quiz App Login###
 ![Project Images](https://github.com/MS418/Quiz-App/blob/main/Quiz%20App%20Imags/3.JPG)
 
 
