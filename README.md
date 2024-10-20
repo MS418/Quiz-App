@@ -23,19 +23,19 @@ This application is programmed using HTML, CSS, and JS. This application is a mu
 ## Images
 
 
-(https://drive.google.com/drive/folders/1H6ur_7oNDCpR4JoGkVgnIAzJhliGxXF6)
+https://drive.google.com/file/d/1CiY_Rn50ARw2rz_1fj1q39bPlXzN-co7/view?usp=sharing
 *Quiz App Login*
 
-![Quiz App Homepage](images/homepage.png)
+(images/homepage.png)
 *Quiz App Homepage*
 
-![Quiz App Homepage](images/homepage.png)
+(images/homepage.png)
 *Quiz App Homepage*
 
-![Quiz Question Example](images/question_example.png)
+(images/question_example.png)
 *Quiz Question Example*
 
-![Quiz Results Screen](images/results_screen.png)
+(images/results_screen.png)
 *Quiz Results Screen*
 
 
