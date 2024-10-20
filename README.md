@@ -14,3 +14,7 @@ This application is programmed using HTML, CSS, and JS. This application is a mu
 - Create a draft to store questions that you do not know the answer to until the end of the quiz and after completing them, their scores are added to the total scores of the quiz.
 - Show a message requiring the answer to the question when clicking the Next button without answering the question.
 - Create three levels in evaluating the quiz according to the scores.
+
+## Passwords:
+- Username (Mathew)  Password (Samir123@)
+- Username (Career180)  Password (Career@180)
