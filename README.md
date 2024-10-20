@@ -16,7 +16,6 @@ This application is programmed using HTML, CSS, and JS. This application is a mu
 - Create three levels in evaluating the quiz according to the scores.
 
 ## Passwords:
-- Username (Mathew)  Password (Samir123@)
-- Username (Career180)  Password (Career@180)
+- Username: (**Mathew**)       Password: (**Samir123@**)
+- Username: (**Career180**)    Password: (**Career@180**)
 
-- [License](#license)
