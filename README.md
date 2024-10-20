@@ -1,45 +1,23 @@
-# QuizApp
+# Quiz App
 
-Thisisaweb-basedQuizAppthatallowsuserstotakequizzesonvarioussubjectslikeChemistry,Physics,andMathematics.Theappfeaturesloginauthentication,dynamicroutingbetweenpages,andmultiplelevelsofquizzes.
+This is a web-based Quiz App that allows users to take quizzes on various subjects like Chemistry, Physics, and Mathematics. The app features login authentication, dynamic routing between pages, and multiple levels of quizzes.
 
 ## Features:
-- UserauthenticationviaJSONdata(username/password).
-- Subject-basedquizzes(Chemistry,Physics,Mathematics).
-- Threedifficultylevelsforeachquiz:Easy,Medium,andHard.
-- Questiondisplaywithanswerselectionandquizsubmission.
+- User authentication via JSON data (username/password).
+- Subject-based quizzes (Chemistry, Physics, Mathematics).
+- Three difficulty levels for each quiz: Easy, Medium, and Hard.
+- Question display with answer selection and quiz submission.
 
-## TableofContents
+## Table of Contents
 1. [Installation](#installation)
-2. [ProjectStructure](#project-structure)
+2. [Project Structure](#project-structure)
 3. [Usage](#usage)
-4. [UserAuthentication](#user-authentication)
+4. [User Authentication](#user-authentication)
 5. [Routing](#routing)
-6. [QuizFunctionality](#quiz-functionality)
+6. [Quiz Functionality](#quiz-functionality)
 7. [Contributing](#contributing)
 8. [License](#license)
 
 ## Installation
 ...
 
-QuizAppTheQuizAppisaweb-basedapplicationthatallowsuserstotesttheirknowledgeacrossmultiplesubjects,includingPhysics,Chemistry,andMath,withquizestailoredtodifferentdifficultylevels(easy,intermediate,anddifficult).Thisappisidealforeducationalpurposesandforanyonelookingtochallengethemselvesinscienceandmath.
-
-## Features:
-- SubjectsCovered:Physics,Chemistry,andMath.
-- DifficultyLevels:Easy,Intermediate,andDifficultquizzesforeachsubject.
-- Interactive:Userscanselectthesubjectanddifficultyto startaquiz.
-- WebTechnologies:BuiltusingHTML,CSS,andJavaScriptforasimpleyetresponsiveuserinterface.
-
-## Usage:
-- Clonetherepository.
-- Open`index.html`inawebbrowsertostarttheapp.
-- Navigatethroughthequizsectionsandanswerquestionsbasedontheselecteddifficultylevelandsubject.
-
-## TechnologyStack:
-- **HTML**:Structuringthequizpagesandcontent.
-- **CSS**:Stylingthequizinterfaceforanengaginguserexperience.
-- **JavaScript**:Handlingthequizlogic,includingnavigationandscoring.
-
-## FutureImprovements:
-- Addingscoringsystem.
-- Expandingthequizdatabasewithmorequestions.
-- Incorporatinguserprogresstracking.
